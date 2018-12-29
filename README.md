@@ -11,3 +11,6 @@ the class of opporational functions , the class of game status and the class of 
 
 ### The Fuctions 
 In cluding Monitor the action of keyboards,Display the game,Functions of checking the collisions among ship, aliens and bullets.
+
+## THe Game vision:
+![alt text](https://github.com/JKYang01/game_kitty_shooting/blob/master/image/Screenshot%20from%202018-12-28%2001-32-11.png)
